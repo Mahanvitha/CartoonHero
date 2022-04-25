@@ -9,6 +9,7 @@ header{
 }
 header h1{
 	color: white;
+	font-family: 'Helvetica', 'Arial', SANS-SERIF;
 }
 header Img {
     border-radius: 400px;
